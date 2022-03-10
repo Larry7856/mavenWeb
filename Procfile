@@ -1,1 +1,1 @@
-web: java $JAVA_OPTS -jar target/jetty-runner-8.1.16.v20140903.jar --port $PORT target/maveproject/maveproject.war
+web: java $JAVA_OPTS -jar jetty-runner.jar --port $PORT target/maveproject/maveproject.war
