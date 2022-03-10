@@ -1,1 +1,1 @@
-web: deploy-war app:app
+web:app:app
